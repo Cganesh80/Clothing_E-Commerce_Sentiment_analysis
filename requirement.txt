@@ -1,3 +1,4 @@
+flask
 tensorflow
 pandas 
 notebook
@@ -7,4 +8,8 @@ seaborn
 scikit-learn
 plotly
 textblob
-pypl
+scikit-plot
+scipy
+interpolation
+dask
+joblib

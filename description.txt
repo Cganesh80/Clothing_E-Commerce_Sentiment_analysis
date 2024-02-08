@@ -21,5 +21,5 @@ Acknowledgements
 Anonymous but real source
 
 Inspiration
-I look forward to come quality NLP Sentiment analysis based on the rating! There is also some great opportunities for f
-eature engineering, and multivariate analysis.
+I look forward to come quality NLP Sentiment analysis based on the rating! There is also some great opportunities for 
+feature engineering, and multivariate analysis.

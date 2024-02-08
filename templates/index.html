@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Review Rating Predictor</title>
+</head>
+<body>
+    <h1>Review Rating Predictor</h1>
+    <form method="POST">
+        <label for="review_text">Enter your review:</label><br>
+        <textarea id="review_text" name="review_text" rows="4" cols="50">{{ review_text }}</textarea><br><br>
+        <input type="submit" value="Predict Rating">
+    </form>
+    
+    {% if prediction is not none %}
+        <h2>Predicted Rating: {{ prediction }}</h2>
+    {% endif %}
+</body>
+</html>
